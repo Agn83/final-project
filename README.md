@@ -1,2 +1,2 @@
-# Run tests for different browsers
+# Run tests
 robot tests/ 
