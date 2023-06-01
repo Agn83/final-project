@@ -12,8 +12,6 @@ I select manufacturer filter
     Click element    css=.facet--manufacturer .filter-panel--label[for='__s__${manufacturerId}']
     Wait for products loading
 
-#I see products containing word in title
-
 
 *** Test Cases ***
 Show products in category
